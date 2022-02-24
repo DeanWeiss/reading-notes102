@@ -1,3 +1,7 @@
+![https://unsplash.com/photos/Sg3XwuEpybU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink]
+Photo by <a href="https://unsplash.com/@richardbrutyo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Richard Brutyo</a> on <a href="https://unsplash.com/s/photos/dog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
 # This is my Heading for my Reding Notes Page This is an H1 in html
 
 ## What is 'growth mindset'  
