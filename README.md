@@ -16,6 +16,6 @@ Photo by <a href="https://unsplash.com/@richardbrutyo?utm_source=unsplash&utm_me
 ###### Table of Contents h6 heading
  - [Class 1 Reading](class1.md)
  - [Class 2 Reading](class2.md)
- - [Class 3 Reading](Class3.md)
+ - [Class 3 Reading](class3.md)
 
 
