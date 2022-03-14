@@ -13,6 +13,9 @@ Photo by <a href="https://unsplash.com/@richardbrutyo?utm_source=unsplash&utm_me
 * **Teach others**, you do not master something until you can teach someone what it is you are doing.
 * **Remember to take breaks**, your mind needs time to digest what it has learned, walk away and come back after you’ve had some time to reset.
 
-###### h6
+###### Table of Contents h6 heading
+ - [Class 1 Reading] (class1.md)
+ - [Class 2 Reading] (class2.md)
+ - [Class 3 Reading] (Class3.md)
 
 
