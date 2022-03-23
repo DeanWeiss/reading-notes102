@@ -19,12 +19,12 @@ Photo by <a href="https://unsplash.com/@richardbrutyo?utm_source=unsplash&utm_me
 
 ###### Table of Contents h6 heading
 
-<a href=https://deanweiss.github.io/reading-notes/class01>Class 01</a>
+<a href="https://deanweiss.github.io/reading-notes/class01">Class 01</a>
 <br>
-<a href=https://deanweiss.github.io/reading-notes/class02>Class 02</a>
+<a href="https://deanweiss.github.io/reading-notes/class02">Class 02</a>
 <br>
-<a href=https://deanweiss.github.io/reading-notes/class03>Class 03</a>
+<a href="https://deanweiss.github.io/reading-notes/class03">Class 03</a>
 <br>
-<a href=https://deanweiss.github.io/reading-notes/class04>Class 04</a>
+<a href="https://deanweiss.github.io/reading-notes/class04">Class 04</a>
 <br>
-<a href=https://deanweiss.github.io/reading-notes/class01cheatsheetreading02>Cheat Sheet</a>
+<a href="https://deanweiss.github.io/reading-notes/class01cheatsheetreading02">Cheat Sheet</a>
