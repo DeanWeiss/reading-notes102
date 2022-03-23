@@ -1,4 +1,4 @@
-# Class 06 Readin
+# Class 06 Reading
 
 Javascript is a lightweigh, interpreted, or just-in-time compiled programming language. Javascript is not the same as Java Programming language.
 4 ways to declare a java script variable
