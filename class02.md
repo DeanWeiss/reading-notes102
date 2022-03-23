@@ -7,3 +7,4 @@ As you progress you'll likely learn that not all text editors are created equall
 
 The most important part is too simply start coding, searching all day for the 'perfect' text editor won't matter if you don't know how to code. Lastly, there is something called Integrated Development Environment (IDE) and tht basically takes a bunch of different software and packages it all together. I wouldn't worry about this for now, just know it's out there and once you know the basics of coding, it can make your life easier. But jumping in right away will probably just confuse you a bit.
 
+[<===BACK](README.md)
