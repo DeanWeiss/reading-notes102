@@ -27,4 +27,6 @@ Photo by <a href="https://unsplash.com/@richardbrutyo?utm_source=unsplash&utm_me
 <br>
 <a href="https://deanweiss.github.io/reading-notes/class04">Class 04</a>
 <br>
+<a href="https://deanweiss.github.io/reading-notes/class05">Class 05</a>
+<br>
 <a href="https://deanweiss.github.io/reading-notes/class01cheatsheetreading02">Cheat Sheet</a>
